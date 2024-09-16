@@ -8,8 +8,6 @@ This tool detects phishing emails based on various heuristics and machine learni
 - Technologies Used
 - Setup Instructions
 - Usage
-- Contributing
-- License
 
 ## Introduction
 Phishing emails are a common threat in today's digital world. This project leverages machine learning techniques to detect phishing emails based on their content.
@@ -56,9 +54,3 @@ Phishing emails are a common threat in today's digital world. This project lever
 
 2. **Detect Phishing Emails**:
     - Use the `detect_phishing` function to classify email content as phishing or not.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
